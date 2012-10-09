@@ -1,0 +1,19 @@
+Elementary OS Color Scheme for Guake
+===============================
+
+This simple script sets the color scheme of Guake terminal to that of Pantheon Terminal in Elementary OS, which looks good.
+
+Example
+=======
+
+Just download the script and run
+
+* git clone git://github.com/tatetian/guake-colors-elementary-os.git
+* cd guake-colors-elementary-os
+* ./run
+
+Credits
+=======
+
+* Color scheme is extracted from Pantheon Terminal of Elementary OS, https://launchpad.net/pantheon-terminal
+* Script is modified from https://github.com/coolwanglu/guake-colors-solarized by coolwanglu
